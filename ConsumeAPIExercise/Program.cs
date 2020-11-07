@@ -17,8 +17,7 @@ namespace ConsumeAPIExercise
         {
 
             IAPI theOfficeAPI = new TheOfficeAPI();
-            //theOfficeAPI.baseURL = "http://www.officeapi.dev/api"
-            theOfficeAPI.baseURL = urls.theOffice;
+            theOfficeAPI.baseURL = "http://www.officeapi.dev/api";
             theOfficeAPI.path = "/quotes/random";
 
             await theOfficeAPI.Request();
@@ -26,7 +25,7 @@ namespace ConsumeAPIExercise
     }
 
     interface Printable { 
-        void print(String value);
+        void print(string value);
     }
 
     class SomePrinter : Printable
@@ -78,11 +77,5 @@ public class TheOfficeAPI : IAPI
         }
        
     }
-}
-
-public enum urls
-{
-    [field:Description("http://www.officeapi.dev/api")]
-    theOffice
 }
 

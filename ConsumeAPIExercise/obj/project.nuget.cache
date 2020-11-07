@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "omEX6Aq82B1WS8k1N+jN4Om68ztjAZPZ5TslhN13+thqi7OKdNxRQqkkt5tmHB7VTdy9rd39a8hkZh+geu2uZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lauffen\\source\\repos\\ConsumeAPIExercise\\ConsumeAPIExercise\\ConsumeAPIExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lauffen\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

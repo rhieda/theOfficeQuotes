@@ -1,0 +1,15 @@
+C:\Users\Lauffen\source\repos\ConsumeAPIExercise\ConsumeAPIExercise\bin\Debug\netcoreapp3.1\ConsumeAPIExercise.exe
+C:\Users\Lauffen\source\repos\ConsumeAPIExercise\ConsumeAPIExercise\obj\Debug\netcoreapp3.1\ConsumeAPIExercise.csprojAssemblyReference.cache
+C:\Users\Lauffen\source\repos\ConsumeAPIExercise\ConsumeAPIExercise\obj\Debug\netcoreapp3.1\ConsumeAPIExercise.AssemblyInfoInputs.cache
+C:\Users\Lauffen\source\repos\ConsumeAPIExercise\ConsumeAPIExercise\obj\Debug\netcoreapp3.1\ConsumeAPIExercise.AssemblyInfo.cs
+C:\Users\Lauffen\source\repos\ConsumeAPIExercise\ConsumeAPIExercise\bin\Debug\netcoreapp3.1\ConsumeAPIExercise.deps.json
+C:\Users\Lauffen\source\repos\ConsumeAPIExercise\ConsumeAPIExercise\bin\Debug\netcoreapp3.1\ConsumeAPIExercise.runtimeconfig.json
+C:\Users\Lauffen\source\repos\ConsumeAPIExercise\ConsumeAPIExercise\bin\Debug\netcoreapp3.1\ConsumeAPIExercise.runtimeconfig.dev.json
+C:\Users\Lauffen\source\repos\ConsumeAPIExercise\ConsumeAPIExercise\bin\Debug\netcoreapp3.1\ConsumeAPIExercise.dll
+C:\Users\Lauffen\source\repos\ConsumeAPIExercise\ConsumeAPIExercise\bin\Debug\netcoreapp3.1\ConsumeAPIExercise.pdb
+C:\Users\Lauffen\source\repos\ConsumeAPIExercise\ConsumeAPIExercise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lauffen\source\repos\ConsumeAPIExercise\ConsumeAPIExercise\obj\Debug\netcoreapp3.1\ConsumeAPIExercise.csproj.CoreCompileInputs.cache
+C:\Users\Lauffen\source\repos\ConsumeAPIExercise\ConsumeAPIExercise\obj\Debug\netcoreapp3.1\ConsumeAPIExercise.csproj.CopyComplete
+C:\Users\Lauffen\source\repos\ConsumeAPIExercise\ConsumeAPIExercise\obj\Debug\netcoreapp3.1\ConsumeAPIExercise.dll
+C:\Users\Lauffen\source\repos\ConsumeAPIExercise\ConsumeAPIExercise\obj\Debug\netcoreapp3.1\ConsumeAPIExercise.pdb
+C:\Users\Lauffen\source\repos\ConsumeAPIExercise\ConsumeAPIExercise\obj\Debug\netcoreapp3.1\ConsumeAPIExercise.genruntimeconfig.cache
